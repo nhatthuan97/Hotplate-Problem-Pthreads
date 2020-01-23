@@ -59,3 +59,4 @@ successive estimates of the solution will approach zero.  The user will
 specify a value typically called epsilon which is the error tolerance
 used to halt the iteration.  The program will halt when successive iterations
 yield no changes larger than epsilon at any grid point.
+
